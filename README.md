@@ -34,7 +34,7 @@ Lead Source Analysis — comparison of channels (Ads vs. YT) by leads and conver
 Detailed View — a filterable, drill-down table of individual leads
 Interactive Slicers — filter by Lead Date, Lead Source, Counsellor, and Call Status
 
-###💡 Key Insights
+### 💡 Key Insights
 
 Ads is the stronger-performing lead source compared to YT, both in volume and conversions — suggesting marketing spend could be prioritized toward Ads.
 "Connected" calls represent the largest share of call outcomes, making call-handling quality on connected leads a higher-leverage improvement area than simply generating more leads.
